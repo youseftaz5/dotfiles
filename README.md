@@ -1,2 +1,3 @@
 # dotfiles
-there is my .vimrc 
+-----> .vimrc
+
